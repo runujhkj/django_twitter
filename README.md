@@ -1,20 +1,10 @@
-## Stream Twitter clone
+## OK Boomer (Twitter clone)
 
-This is a simple Twitter clone app built with [Stream](http://getstream.io)'s API. It shows you how you can use [GetStream.io](https://getstream.io/ "GetStream.io") to build a site similar to Twitter.
-
-Note there is also a lower level [Python - Stream integration](https://github.com/getstream/stream-python) library which is suitable for all Python applications.
-
-You can sign up for a Stream account at https://getstream.io/get_started.
-
-If you're looking to self-host your feed solution we suggest the open source [Stream-Framework](https://github.com/tschellenbach/Stream-Framework), created by the Stream founders.
+This is a simple Twitter clone app named OK Boomer, built with [Stream](http://getstream.io)'s API.
 
 ### Tutorial
 
 This application is based on the [Build a scalable Twitter clone with Django and GetStream.io](https://gist.github.com/tbarbugli/97bf26f400ecf1443ef6) tutorial.
-
-### Live Demo
-
-You can see a live demo of this application [here](http://tw.getstream.io/).
 
 ### Heroku
 
